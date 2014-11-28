@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 """
+    
+    hex8as.py - A Python based assembler for Hex8
 
-hex8as.py - A Python based assembler for Hex 8
+    Copyright (C) 2014 Steve Kerrison, University of Bristol,
+        <steve.kerrison@bristol.ac.uk>
 
-Copyright (C) 2014 Steve Kerrison, University of Bristol,
-<steve.kerrison@bristol.ac.uk>
-
-Golf buddy: James Pallister
+    Golf buddy: James Pallister
 
 Usage:
     hex8as.py [options] <file>
