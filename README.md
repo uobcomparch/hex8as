@@ -7,6 +7,9 @@ This is a python script that assembles the Hex8 ISA mnemonics roughly following
 the methods described in the University of Bristol CS COMSM1302 "Overview of
 Computer Architecture" unit.
 
+The output of this assembler is compatible with ModuleSim's hex format for RAM
+images.
+
 Usage
 -----
 
