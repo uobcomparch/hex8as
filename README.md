@@ -14,7 +14,7 @@ Minimum requirements
 --------------------
 
 * Python 2.7 or newer
-* Docopt for python, or a copy https://github.com/docopt/docopt/blob/master/docopt.py
+* Docopt for python, or a copy of https://github.com/docopt/docopt/blob/master/docopt.py
 
 Usage
 -----
