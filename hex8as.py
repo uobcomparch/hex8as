@@ -69,7 +69,7 @@ class Hex8as:
                            re.findall(r'\s*(\w+\:)?\s*(\w+)([^\w\n]+\w+)?',
                                       re.subn(r'[;#].*', '',
                                               open(self.filename, 'r').read(),
-                                              re.M)[0],
+                                              )[0],
                                       re.M)
                            )
         ]
